@@ -53,7 +53,7 @@
       <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
     </PackageReference>
     <PackageReference Include="Microsoft.xunit.netcore.extensions" Version="2.2.0-preview1-03110-01" />
-    <PackageReference Include="System.Text.RegularExpressions" Version="4.3.0" />
+    <PackageReference Include="System.Text.RegularExpressions" Version="4.3.1" />
     <PackageReference Include="microsoft.dotnet.buildtools.testsuite" Version="2.2.0-preview1-03110-01" />
     <PackageReference Include="System.Linq.Expressions" Version="4.3.0" />
     <PackageReference Include="System.Diagnostics.DiagnosticSource" Version="4.5.1" />
